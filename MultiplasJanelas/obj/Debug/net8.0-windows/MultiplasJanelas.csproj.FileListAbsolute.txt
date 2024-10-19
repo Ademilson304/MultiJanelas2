@@ -1,0 +1,130 @@
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.exe
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.deps.json
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.runtimeconfig.json
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form1.resources
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\refint\MultiplasJanelas.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\ref\MultiplasJanelas.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\0910_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarProduto.resources
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form1.resources
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarProduto.resources
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\refint\MultiplasJanelas.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.exe
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.deps.json
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.runtimeconfig.json
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Music\Aula_turma_005\C#\1110_AULA\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\ref\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.exe
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.deps.json
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.runtimeconfig.json
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form1.resources
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarProduto.resources
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\refint\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Videos\ezyzip\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\ref\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.exe
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.deps.json
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.runtimeconfig.json
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form1.resources
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarProduto.resources
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.GenerateResource.cache
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfoInputs.cache
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfo.cs
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\refint\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.genruntimeconfig.cache
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\ref\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\14-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Properties.Resources.resources
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.exe
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.deps.json
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.runtimeconfig.json
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form1.resources
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarProduto.resources
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Properties.Resources.resources
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\refint\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\ref\MultiplasJanelas.dll
+C:\Users\aluno.cad\Videos\MultiplasJanelas-20241015T221152Z-001\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarCliente.resources
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.exe
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.deps.json
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.runtimeconfig.json
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form1.resources
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarCliente.resources
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarProduto.resources
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Properties.Resources.resources
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.GenerateResource.cache
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfoInputs.cache
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfo.cs
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\refint\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.genruntimeconfig.cache
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\ref\MultiplasJanelas.dll
+C:\Win\Turma TDS - Noite\C#\15-10-2024\MultiplasJanelas\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarFornecedor.resources
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.exe
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.deps.json
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\bin\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form1.resources
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarCliente.resources
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarFornecedor.resources
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.FormCriarProduto.resources
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Properties.Resources.resources
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\refint\MultiplasJanelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.pdb
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\ref\MultiplasJanelas.dll
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.Form2CriarCompra.resources
+C:\Users\aluno.cad\Desktop\Ademilson\MultiplasJanelas\obj\Debug\net8.0-windows\MultiplasJanelas.CriarVendaForm2.resources
